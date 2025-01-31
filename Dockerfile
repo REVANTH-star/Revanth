@@ -1,3 +1,3 @@
-From httpd
+From nginx
 copy . /usr/local/apache2/htdocs/
-Expose 80
+Expose 8080
